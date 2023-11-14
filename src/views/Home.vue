@@ -1,5 +1,5 @@
 <template>
-    <div class="flex p-9 w-full">
+    <div class="flex p-10 w-full">
             <input 
             type="text" 
             class="rounded w-full"
