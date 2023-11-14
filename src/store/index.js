@@ -10,6 +10,7 @@ const store = createStore({
     actions,
     mutations,
     getters,
+    //ends
     
 })
 

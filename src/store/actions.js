@@ -21,3 +21,4 @@ export function searchMealsByIngredient ({ commit }, ingredient) {
     })
     
 }
+//ends

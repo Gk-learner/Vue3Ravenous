@@ -1,5 +1,5 @@
 <template>
-    <div class="p-8 pb-0">
+    <div class="p-9 pb-0">
       <h1 class="text-4xl font-bold mb-4 text-center p-20 text-orange-500">Choose your meal by its first Letter</h1>
     </div>
     <div class="flex flex-wrap justify-center gap-3 px-8 mb-6">

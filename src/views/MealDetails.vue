@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-[800px] mx-auto p-8">
+    <div class="max-w-[800px] mx-auto p-9">
       <h1 class="text-4xl font-bold mb-5 text-orange-500">{{ meal.strMeal }}</h1>
       <img :src="meal.strMealThumb" :alt="meal.strMeal" class="max-w-[30%]">
       <div class="grid grid-cols-1 sm:grid-cols-3 text-lg py-2">
