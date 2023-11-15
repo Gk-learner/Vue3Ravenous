@@ -8,7 +8,7 @@ import MealDetails from '../views/MealDetails.vue'
 
 const routes = [
   {
-    path: "/",
+    path: "/Vue3Ravenous",
     name: "home",
     component: Home,
   },
